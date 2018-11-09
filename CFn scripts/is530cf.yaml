@@ -863,11 +863,11 @@ Mappings:
     ap-southeast-2:
       Ubuntu180464bit: ami-005d8154207e981a4
     eu-west-1:
-      Ubuntu180464bit: ami-0ea3b70805378f796
+      Ubuntu180464bit: ami-00fe5f3058e930e92
     us-east-1:
-      Ubuntu180464bit: ami-04db6acce789912b4
+      Ubuntu180464bit: ami-083423ce15ae74f8a
     us-east-2:
-      Ubuntu180464bit: ami-0e8d8e6d8d5498378
+      Ubuntu180464bit: ami-0e6b9c008adde7bc8
     us-west-1:
       Ubuntu180464bit: ami-01c303b902735f14b
     us-west-2:

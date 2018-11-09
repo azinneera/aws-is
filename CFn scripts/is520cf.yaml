@@ -787,7 +787,7 @@ Resources:
     DependsOn:
       - WSO2ISLoadBalancerSecurityGroup
 Outputs:
-  ISCarbonURL:
+  MgtConsoleUrl:
     Value: !Join
       - ''
       - - 'https://'
